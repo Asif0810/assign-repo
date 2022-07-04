@@ -23,10 +23,17 @@ h3 {
     color: orange;
 }
 
-section {
+.top-banner {
     display: flex;
-
 }
+
+.dream {
+    display: flex;
+}
+
+
+
+
 
 .half-width {
     width: 50%;
@@ -71,9 +78,65 @@ p {
 
 .dream {
     margin-top: 40px;
+
+
 }
 
 .piture {
     margin-top: 169px;
+
+}
+
+.flex {
+    display: flex;
+
+}
+
+.ex-left {
+    width: 40%;
+    border-left: 7px solid tomato;
+    padding-right: 30px;
+    margin-right: 40px;
+    float: left;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-shadow: 5px 7px 40px grey;
+
+}
+
+.ex-right {
+    width: 40%;
+    border-left: 7px solid blue;
+    margin-left: 40px;
+    float: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-shadow: 5px 7px 40px grey;
+
+}
+
+.ex-h1 {
+    font-size: 40px;
+}
+
+.ex-head {
+    font-size: 40px;
+
+}
+
+.header2 {
+    color: orange;
+}
+
+.last_head {
+    font-size: 40px;
+}
+
+.experience-aria {
+    margin-bottom: 40px;
+
 
 }
