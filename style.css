@@ -2,7 +2,7 @@
 
 body {
     margin: 0;
-
+    font-family: 'Kdam Thmor Pro', sans-serif
 }
 
 /* * {
@@ -66,5 +66,14 @@ p {
 .top-banner {
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
+
+}
+
+.dream {
+    margin-top: 40px;
+}
+
+.piture {
+    margin-top: 169px;
 
 }
